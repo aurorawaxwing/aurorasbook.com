@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: aurorasbook
+title: Aurora's Book
 email: aurorafullerene@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello and welcome to my blog and website. Here I talk about what is happen in
-  my world. I probably will talk about chemsitry, astronomy, nature, and harry
-  potter
+  my world. I probably will talk about chemsitry, astronomy, nature, harry
+  potter, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://aurorasbook.com
 # twitter_username: PowelAurora
