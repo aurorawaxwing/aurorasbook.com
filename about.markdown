@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hello and welcome to the page about the other pages. This blog is
+
 
 Attributions
 

@@ -21,12 +21,12 @@
 title: aurorasbook
 email: aurorafullerene@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello and welcome to my blog and website. Here I talk about what is happen in
+  my world. I probably will talk about chemsitry, astronomy, nature, and harry
+  potter
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: PowelAurora
+url: "" # the base hostname & protocol for your site, e.g. https://aurorasbook.com
+# twitter_username: PowelAurora
 github_username:  aurorasbook
 
 # Build settings
@@ -46,6 +46,9 @@ exclude:
   - CODE_OF_CONDUCT.md
   - README.md
   - CONTRIBUTING.md
+  - .github\ISSUE_TEMPLATE\bug_report.md
+  - .github\ISSUE_TEMPLATE\feature_request.md
+  - .github\ISSUE_TEMPLATE\other.md
 
 #   - .sass-cache/
 #   - .jekyll-cache/
