@@ -28,7 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://aurorasbook.com
 markdown: kramdown
 # twitter_username: PowelAurora
-github_username:  aurorasbook
+# github_username:  aurorasbook
 
 # Build settings
 theme: minima
