@@ -30,7 +30,7 @@ markdown: kramdown
 # github_username:  aurorasbook
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
