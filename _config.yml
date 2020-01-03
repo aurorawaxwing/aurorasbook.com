@@ -28,6 +28,7 @@ url: "https://aurorasbook.com" # the base hostname & protocol for your site, e.g
 markdown: kramdown
 # twitter_username: PowelAurora
 # github_username:  aurorasbook
+google_analytics: UA-155094288-1
 
 # Build settings
 theme: jekyll-theme-minimal
