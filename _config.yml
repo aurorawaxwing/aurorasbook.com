@@ -20,17 +20,23 @@
 
 title: Aurora's Book
 email: aurorafullerene@gmail.com
+version: 0.0.1
 description: >- # this means to ignore newlines until "baseurl:"
   Hello and welcome to my blog and website. Here I talk about what is happen in
   my world. I probably will talk about chemsitry, astronomy, nature, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aurorasbook.com" # the base hostname & protocol for your site, e.g. https://aurorasbook.com
 markdown: kramdown
-# twitter_username: PowelAurora
-# github_username:  aurorasbook
-rss: rss
+
+minima:
+  social_links:
+    github: aurorasbook
 
 google_analytics: UA-155094288-1
+
+
+
+
 
 # Build settings
 theme: minima
