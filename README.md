@@ -1,1 +1,1 @@
-This is my website and blog code there is not much here. This site is using Jekyll 4.0.0. the code is free to use but please respect the license. Cite me if you use my words. My contact is aurorafullerene@gmail.com I do not know why you would want to contact me.
+This is my website and blog code there is not much here. This site is using Jekyll 4.0.0. the code is free to use but please respect the license. Cite me if you use my words. My contact is aurorasbookcontact@gmail.com I do not know why you would want to contact me.
