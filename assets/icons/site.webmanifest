@@ -1,6 +1,6 @@
 {
-    "name": "Aurora ",
-    "short_name": "Aurora ",
+    "name": "Aurora",
+    "short_name": "Aurora",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -8,13 +8,13 @@
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-384x384.png",
-            "sizes": "384x384",
+            "src": "/android-chrome-256x256.png",
+            "sizes": "256x256",
             "type": "image/png"
         }
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "aurorasbook.com",
+    "start_url": "https://aurorasbook.com/",
     "display": "standalone"
 }
